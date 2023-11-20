@@ -1,0 +1,1 @@
+{"name":"Local: myround","url":"c:\\Users\\anupa\\OneDrive\\Desktop\\spos by me\\paging\\myround.cpp","tests":[{"id":1700173872303,"input":"5 2\n0 2\n4 1\n7 3\n11 4\n18 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\anupa\\OneDrive\\Desktop\\spos by me\\paging\\myround.cpp","group":"local","local":true}
